@@ -35,8 +35,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |3/3|8:52|IM|datascraper tar pit construction|60|
 |3/3|2:00|TP|Merging and notes screen implementation|120|
 |3/4|5:25|IM|Markov babbler for tar pit|60|
-||||||
-||||||
+|3/6|1:58|TP|notes and notebooks supabase interaction|129|
 
 ## Sprint Totals
 
